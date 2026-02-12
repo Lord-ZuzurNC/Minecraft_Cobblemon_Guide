@@ -1,7 +1,5 @@
 # Minecraft_Cobblemon_Guide
 A guide to install Cobblemon 2.0 as much similar as PokeRayou season 2
-<<<<<<< HEAD
-=======
 
 > Github limits the size of file to 100MB. Some files in the repo will be more than this limit so I splitted up these files into 100MB chunks.
 > To join back these files into 1 you'll need to install [VSCode](https://code.visualstudio.com/) (but I personnally advise using [VSCodium](https://vscodium.com/)), install the "File & Folder Splitter Pro" plugin (it's free).
@@ -44,3 +42,18 @@ Example `/summon academy:nurse_npc` will summon an NPC that will heal your team 
 ## Add the gold economy
 
 Install the "Numismatic Overhaul". This will integrate the bronze, silver, and gold coin currency.
+
+## Add Legendaries items
+
+I've already added the legendary spawn in the `datapacks/CCC_1.9.2/data` (folder "legendary_spawn").
+
+For more information please read this [doc](docs/PlusInfos.txt) written by Spyrix.
+
+
+## Thanks
+
+BIG THANKS to Spyrix. Look out his [Youtube](https://www.youtube.com/@SpyrixTv), [Twitch](https://www.twitch.tv/spyrixtv), [Discord](https://discord.gg/pAjftucsgm), and if you can and feel generous help him via [Paypal](https://paypal.me/Spyrixfdx).
+
+I would also like to thanks members of his Discord and especially:
+- Amaa (who made the first tuto)
+- Eligos and octoj which I talk a lot and share lot of interest and findings
